@@ -11,13 +11,15 @@ flaska/
 │   ├── pro_config.py
 │   └── test_config.py
 ├── __init__.py
-├── README.md
+├── requirements.txt
 ├── routes
 │   └── __init__.py
 ├── services
 │   └── __init__.py
 ├── settings.py
 ├── .gitignore
+├── requirements.txt
+└── README.md
 ```
 
 >目录说明:
@@ -35,4 +37,5 @@ __init__.py 项目初始化文件
 README.md 项目说明文件
 settings.py 配置读取文件
 .gitignore git上传过滤文件
+requirements.txt 包依赖文件
 ```
